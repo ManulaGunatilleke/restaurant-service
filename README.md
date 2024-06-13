@@ -50,4 +50,4 @@ docker build -t restaurant-service .
 npm run dev (Option 1)
 docker run -d -p 5000:5000 --env-file .env restaurant-service or start using Docker Desktop (Option 2) 
 ```
-### Full Code woth docker-composer.yml -: https://github.com/ManulaGunatilleke/resturent-all.git
+### Full Code -: https://github.com/ManulaGunatilleke/resturent-all.git
