@@ -47,7 +47,7 @@ docker build -t restaurant-service .
 - Go to inside restaurant-frontend folder
   
 ``` bash
-npn run dev (Option 1)
+npm run dev (Option 1)
 docker run -d -p 5000:5000 --env-file .env restaurant-service or start using Docker Desktop (Option 2) 
 ```
 
