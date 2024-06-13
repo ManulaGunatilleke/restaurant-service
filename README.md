@@ -12,7 +12,7 @@ Technology Stacks and used for the System
 ### 1. Clone the repository:
 
 ``` bash
-git clone https://github.com/ManulaGunatilleke/resturent-service.git
+git clone https://github.com/ManulaGunatilleke/restaurant-service.git
 ```
 ### 2. Backend navigation:
 
