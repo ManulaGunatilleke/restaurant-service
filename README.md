@@ -1,4 +1,4 @@
-### Resturent System (Backend)
+# Resturent System (Backend)
 
 Technology Stacks and used for the System 
  -  Java Script(Language)
@@ -44,10 +44,10 @@ docker build -t restaurant-service .
 
 ### 6. Start backend:
 
-- Go to inside restaurant-frontend folder
+- Go to inside restaurant-service folder
   
 ``` bash
 npm run dev (Option 1)
 docker run -d -p 5000:5000 --env-file .env restaurant-service or start using Docker Desktop (Option 2) 
 ```
-
+### Full Code woth docker-composer.yml -: https://github.com/ManulaGunatilleke/resturent-all.git
